@@ -1,4 +1,4 @@
-name: ChristiansenPhotography
+name: Christiansen Photography
 favicon: null
 layout_spectrum: 0.16742250067181885
 typography_spectrum: 0.7081023135688156
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.07761137699708343
-  lightness: 0.43461761926300824
-  saturation: 0.14942985423840582
-  rhythmicContrast: 0.3302350838202983
+    - '#fbfbfb'
+    - '#4c7690'
+    - '#8d8a7c'
+    - '#263e4b'
+    - '#a7bcc4'
+  brandStrength: 0.1875
+  lightness: 0.75
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
